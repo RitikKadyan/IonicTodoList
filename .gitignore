@@ -31,3 +31,8 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+GoogleService-Info.plist
+.browserslistrc
+.editorconfig
+.eslintrc.json
+.vscode
